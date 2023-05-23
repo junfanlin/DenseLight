@@ -1,2 +1,4 @@
 # DenseLight
-Official code for "DenseLight: Non-local Enhanced Traffic Signal Control with Ideal-Factual Distance Gap Minimization"
+Official code for "DenseLight: Efficient Control for Large-scale Traffic Signals with Dense Feedback"
+
+Code will be release ASAP
